@@ -1,0 +1,33 @@
+html {
+    font-size: 25px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: "Dancing Script", cursive; /* this should be the rest of the output you got from Google fonts */
+    background-color: rgb(195, 230, 195);
+  }
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px rgb(141, 141, 143);
+}
+
+p, li {
+    font-size: 25px;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 912px;
+    margin: 0 auto;
+    background-color: rgb(181, 220, 231);
+    padding: 0 33px 0 33px;
+    border: 5px solid rgba(0, 0, 0, 0.404);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
